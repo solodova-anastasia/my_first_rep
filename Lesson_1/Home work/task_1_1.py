@@ -1,1 +1,1 @@
-Ptint ("All done!")
+Print ("All done!")
